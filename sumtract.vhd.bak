@@ -1,0 +1,24 @@
+LIBRARY IEEE;
+USE IEEE.STD_LOGIC_1164.ALL;
+
+ENTITY sumtract IS
+PORT( a, b, Cin, control : IN STD_LOGIC;
+      s, cout   : OUT STD_LOGIC);
+
+END sumtract;
+
+ARCHITECTURE dir OF sumtract IS
+signal x : std_logic;
+BEGIN
+process(control)
+   begin
+     if control='0' then
+     x <= b;
+     else if control='1' then
+     x <= not b;
+     end if;
+     end if;
+   s <= (a XOR (x XOR Cin));
+   Cout <= (x AND Cin) OR (x AND a) OR (Cin AND a); 
+end process;
+END dir;  

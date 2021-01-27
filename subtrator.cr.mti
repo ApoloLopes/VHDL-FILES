@@ -1,0 +1,26 @@
+C:/Users/apolo/Desktop/subtratorfull/tb_full.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/apolo/Desktop/subtratorfull/tb_full.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity tb_full
+-- Compiling architecture dir of tb_full
+
+} {} {}} C:/Users/apolo/Desktop/subtratorfull/fullsubtract.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/apolo/Desktop/subtratorfull/fullsubtract.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity fullsubtract
+-- Compiling architecture sub4 of fullsubtract
+-- Loading entity sumtract
+
+} {} {}} C:/Users/apolo/Desktop/subtratorfull/sumtract.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/apolo/Desktop/subtratorfull/sumtract.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity sumtract
+-- Compiling architecture dir of sumtract
+
+} {} {}}

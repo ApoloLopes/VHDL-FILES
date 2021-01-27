@@ -1,0 +1,26 @@
+C:/Users/apolo/Desktop/subtratorfull/mux/multiplexerwith.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/apolo/Desktop/subtratorfull/mux/multiplexerwith.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity multiplexerwith
+-- Compiling architecture eqn of multiplexerwith
+
+} {} {}} C:/Users/apolo/Desktop/subtratorfull/mux/multiplexer.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/apolo/Desktop/subtratorfull/mux/multiplexer.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity multiplexer
+-- Compiling architecture eqn of multiplexer
+
+} {} {}} C:/Users/apolo/Desktop/subtratorfull/mux/tb_multiplexer.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/apolo/Desktop/subtratorfull/mux/tb_multiplexer.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity tb_multiplexer
+-- Compiling architecture dir of tb_multiplexer
+
+} {} {}}

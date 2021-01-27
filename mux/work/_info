@@ -1,0 +1,129 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/apolo/Desktop/subtratorfull
+Emultiplexer
+Z0 w1541224118
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Users/apolo/Desktop/subtratorfull/mux
+Z4 8C:/Users/apolo/Desktop/subtratorfull/mux/multiplexer.vhd
+Z5 FC:/Users/apolo/Desktop/subtratorfull/mux/multiplexer.vhd
+l0
+L3
+V:WF?jPB9DN^HSz;z854CE2
+!s100 k^L=cN?0LPoz0a4<59Efj3
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1541867138
+!i10b 1
+Z8 !s108 1541867138.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/apolo/Desktop/subtratorfull/mux/multiplexer.vhd|
+Z10 !s107 C:/Users/apolo/Desktop/subtratorfull/mux/multiplexer.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Aeqn
+R1
+R2
+DEx4 work 11 multiplexer 0 22 :WF?jPB9DN^HSz;z854CE2
+l9
+L8
+ViAjHYz;V]G>L;LaUUY^VN2
+!s100 CK81BaAFSOS45XaRXWJ?f1
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Emultiplexerwith
+Z13 w1541867535
+Z14 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R1
+R2
+R3
+Z15 8C:/Users/apolo/Desktop/subtratorfull/mux/multiplexerwith.vhd
+Z16 FC:/Users/apolo/Desktop/subtratorfull/mux/multiplexerwith.vhd
+l0
+L4
+VEiMn@4iBz`[l4<=GoJCHU2
+!s100 Qh1PDo3a>_G^1b]5=dLcK1
+R6
+32
+Z17 !s110 1541867540
+!i10b 1
+Z18 !s108 1541867540.000000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/apolo/Desktop/subtratorfull/mux/multiplexerwith.vhd|
+Z20 !s107 C:/Users/apolo/Desktop/subtratorfull/mux/multiplexerwith.vhd|
+!i113 1
+R11
+R12
+Aeqn
+R14
+R1
+R2
+Z21 DEx4 work 15 multiplexerwith 0 22 EiMn@4iBz`[l4<=GoJCHU2
+l10
+L9
+VI_KaVzB9U:L8lX?7MN=b<0
+!s100 9b>]NMH<=_zYchakUD5WP0
+R6
+32
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R11
+R12
+Etb_multiplexer
+Z22 w1541867125
+R1
+R2
+R3
+Z23 8C:/Users/apolo/Desktop/subtratorfull/mux/tb_multiplexer.vhd
+Z24 FC:/Users/apolo/Desktop/subtratorfull/mux/tb_multiplexer.vhd
+l0
+L4
+VHW_j00_?0CEbUiC@Uf^H=1
+!s100 9F?GfJZW8Yo_5=O`;CH:T2
+R6
+32
+R7
+!i10b 1
+R8
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/apolo/Desktop/subtratorfull/mux/tb_multiplexer.vhd|
+Z26 !s107 C:/Users/apolo/Desktop/subtratorfull/mux/tb_multiplexer.vhd|
+!i113 1
+R11
+R12
+Adir
+R1
+R2
+DEx4 work 14 tb_multiplexer 0 22 HW_j00_?0CEbUiC@Uf^H=1
+l20
+L6
+VXKROBaokUOkznDkYH<7aM2
+!s100 EK<4fYNK^n5>4[<HWF^O[0
+R6
+32
+R7
+!i10b 1
+R8
+R25
+R26
+!i113 1
+R11
+R12

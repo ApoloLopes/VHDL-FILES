@@ -1,0 +1,189 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/apolo/Desktop/ex1
+Efullsubtract
+Z0 w1541897823
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Users/apolo/Desktop/subtratorfull
+Z4 8C:/Users/apolo/Desktop/subtratorfull/fullsubtract.vhd
+Z5 FC:/Users/apolo/Desktop/subtratorfull/fullsubtract.vhd
+l0
+L4
+VT@`VSI>j?4Lbm=l9B23nQ3
+!s100 SNSGNXKda>ZjT4[lSBiM90
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1541897827
+!i10b 1
+Z8 !s108 1541897827.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/apolo/Desktop/subtratorfull/fullsubtract.vhd|
+Z10 !s107 C:/Users/apolo/Desktop/subtratorfull/fullsubtract.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Asub4
+Z13 DEx4 work 8 sumtract 0 22 `FdB<STYFoZGidUAJJZ[H0
+R1
+R2
+DEx4 work 12 fullsubtract 0 22 T@`VSI>j?4Lbm=l9B23nQ3
+l15
+L12
+VkAHzfR5m8:hOnDfbzQJ_;1
+!s100 ShbCCkBL>mbeSgUlV00Jm1
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Emultiplicador
+w1541897620
+DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R1
+R2
+R3
+8C:/Users/apolo/Desktop/subtratorfull/multiplicador.vhd
+FC:/Users/apolo/Desktop/subtratorfull/multiplicador.vhd
+l0
+L5
+VL[z9TO;X6HMG`hcT28XnA1
+!s100 Df_zcUBO_QmP;ZLJbG]gG2
+R6
+32
+!s110 1541897625
+!i10b 1
+!s108 1541897625.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/apolo/Desktop/subtratorfull/multiplicador.vhd|
+!s107 C:/Users/apolo/Desktop/subtratorfull/multiplicador.vhd|
+!i113 1
+R11
+R12
+Esubtract
+Z14 w1541207760
+R1
+R2
+R3
+Z15 8C:/Users/apolo/Desktop/subtratorfull/subtract.vhd
+Z16 FC:/Users/apolo/Desktop/subtratorfull/subtract.vhd
+l0
+L4
+VO]>3RXL_eb5ZdR;1bMhJ30
+!s100 AVmCg7QaXdc:T3BbKNj>D1
+R6
+32
+Z17 !s110 1541207764
+!i10b 1
+Z18 !s108 1541207764.000000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/apolo/Desktop/subtratorfull/subtract.vhd|
+Z20 !s107 C:/Users/apolo/Desktop/subtratorfull/subtract.vhd|
+!i113 1
+R11
+R12
+Adir
+R1
+R2
+DEx4 work 8 subtract 0 22 O]>3RXL_eb5ZdR;1bMhJ30
+l10
+L9
+V?jU6k;_RA^SlNJN22=Kmj3
+!s100 5Tc8HJWQeQT[1VGSS5^`J1
+R6
+32
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R11
+R12
+Esumtract
+Z21 w1541853364
+R1
+R2
+R3
+Z22 8C:/Users/apolo/Desktop/subtratorfull/sumtract.vhd
+Z23 FC:/Users/apolo/Desktop/subtratorfull/sumtract.vhd
+l0
+L4
+V`FdB<STYFoZGidUAJJZ[H0
+!s100 H`<j<1a0O<m3[=_`zk?<d0
+R6
+32
+Z24 !s110 1541861746
+!i10b 1
+Z25 !s108 1541861746.000000
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/apolo/Desktop/subtratorfull/sumtract.vhd|
+Z27 !s107 C:/Users/apolo/Desktop/subtratorfull/sumtract.vhd|
+!i113 1
+R11
+R12
+Adir
+R1
+R2
+R13
+l14
+L10
+VC[oDa38;dU]eKe:34:aMJ1
+!s100 Ka_2993?Vi5l9EL:7]LRf3
+R6
+32
+R24
+!i10b 1
+R25
+R26
+R27
+!i113 1
+R11
+R12
+Etb_full
+Z28 w1541861734
+R1
+R2
+R3
+Z29 8C:/Users/apolo/Desktop/subtratorfull/tb_full.vhd
+Z30 FC:/Users/apolo/Desktop/subtratorfull/tb_full.vhd
+l0
+L4
+V3@lgUmSA]0[<:eKRRbl[k1
+!s100 @bz<>lVa@1`oiE]NFAkDI2
+R6
+32
+Z31 !s110 1541861739
+!i10b 1
+Z32 !s108 1541861739.000000
+Z33 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/apolo/Desktop/subtratorfull/tb_full.vhd|
+Z34 !s107 C:/Users/apolo/Desktop/subtratorfull/tb_full.vhd|
+!i113 1
+R11
+R12
+Adir
+R1
+R2
+DEx4 work 7 tb_full 0 22 3@lgUmSA]0[<:eKRRbl[k1
+l19
+L6
+VAX9118a=T[6V[KAXH1AZ`2
+!s100 V7fgoiLz^Wz[9SF]0J^@X2
+R6
+32
+R31
+!i10b 1
+R32
+R33
+R34
+!i113 1
+R11
+R12
